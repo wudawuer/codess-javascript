@@ -39,7 +39,7 @@ fs.readdirSync(originPath).forEach((_) => {
         `## ${prefix}
 #### ${i}
 ${description}
-\`\`\`
+\`\`\`js
 ${Array.isArray(body) ? body.join('\n') : body}
 \`\`\``,
       );
