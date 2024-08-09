@@ -1,0 +1,1 @@
+代码片段来源 https://github.com/xabikos/vscode-javascript/blob/master/snippets
